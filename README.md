@@ -1,13 +1,3 @@
-# 2060_Close_AI
+# 2060_Close_AI: An Implementation of AdaBoost Regressor with One Layer Neural Networks as the weak learner
 
-## Draft of Markdown Section:
-
-We will be implementing a boosting algorithim, commonly known as AdaBoost, with our weak learner as a simple neural network. Our reference paper / materials is the scikit learn implementation, which references these papers
-https://www.sciencedirect.com/science/article/pii/S002200009791504X
-https://dept.stat.lsa.umich.edu/~jizhu/pubs/Zhu-SII09.pdf
-
-### Representation:
-
-### Loss:
-
-### Optimizer: 
+This is a group project for DATA 2060. Our notebook can be found in /src, which can be run using the environment configured in the first cell. 
